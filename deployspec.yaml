@@ -1,7 +1,6 @@
 version: 0.2
 os: linux
-files: 
-- source: /
+files:
 destination: /var/www/html/WordPress
 env:
  variables:
