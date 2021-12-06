@@ -1,7 +1,4 @@
 version: 0.2
-os: linux
-files:
-destination: /var/www/html/WordPress
 env:
  variables:
    ENV_NAME: dev
